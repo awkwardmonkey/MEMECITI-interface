@@ -1,11 +1,6 @@
-# Vircadia Web
+# Memeland Web Interface
 
-## ⚠️ Early Developer Alpha ⚠️
-### The Vircadia web client is in Early Developer Alpha! There will be unimplemented features and bugs.
-***Please take a moment to check the list of issues and file an issue if one does not exist already.
-If you are able, please try to implement a feature or fix a bug yourself! The metaverse appreciates your assistance. 🙏***
-
-Vircadia Web (*codename Aether*) is an open source metaverse web client for accessing virtual worlds.
+Memeland web interface is a memeverse web client for accessing virtual worlds.
 
 ## Compatibility
 
@@ -48,7 +43,7 @@ yarn
 
 ### Customization Options
 
-The web client's settings such as branding, default servers, and more, can be customized directly from [environment variables](https://github.com/vircadia/vircadia-web/blob/master/quasar.conf.js#L131) which you must set at or prior to build/compile time.
+The web client's settings such as branding, default servers, and more, can be customized directly from [environment variables](https://github.com/awkwardmonkey/memeland-web/blob/master/quasar.conf.js#L131) which you must set at or prior to build/compile time.
 
 See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js) for a full set of customization options.
 
