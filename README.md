@@ -9,10 +9,6 @@ This interface is tested and validated for the following browser platforms:
     * Chromium (Chrome, Brave, etc.)
     * Webkit (Safari)
     * Gecko (Firefox)
-* XR on Android *(COMING SOON!)*
-    * Quest 2/Quest Pro
-    * Pico 4
-    * Vive Focus 3
 
 ## Project Setup
 
