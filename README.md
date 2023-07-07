@@ -1,6 +1,6 @@
-# Memeland: Coming Soon to the Memeverse!
+# MEMECITI: Coming Soon to the MEMEverse!
 
-Memeland is an upcoming sensation in the Memeverse! The development is being carried out using a robust and powerful tech stack to ensure you have an unprecedented experience in the Memeverse.
+MEMECITI is an upcoming sensation in the Memeverse! The development is being carried out using a robust and powerful tech stack to ensure you have an unprecedented experience in the MEMEverse.
 
 ## Tech Stack Overview:
 
