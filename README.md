@@ -36,8 +36,8 @@ This interface is tested and validated for the following browser platforms:
 
 We currently use the following:
 
-* Node `18.17.0`
-* NPM `6.14.18`
+* Node `16.18.1`
+* NPM `8.19.2`
 
 *(Use of Node versions other than stated is untested and may not support all features.)*
 
